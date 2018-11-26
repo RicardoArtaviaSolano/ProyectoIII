@@ -1,0 +1,4 @@
+package ConsumirREST;
+
+interface TemporalHolder {
+}
